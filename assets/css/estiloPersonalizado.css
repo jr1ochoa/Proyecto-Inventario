@@ -1,0 +1,18 @@
+.tamanoImagen{
+    margin-top: 9px;
+    width: 60px;
+    height: 60px;
+}
+.margen-superior{
+    margin-top: 5px;
+}
+.margen-izquierdo-titulo{
+    margin-top: 20px;
+}
+.colorFondo{
+    background-color: rgba(250, 235, 215, 0.642);
+}
+.tamanoLetra{
+    font-size: 18px;
+    font-weight: bold;
+}
