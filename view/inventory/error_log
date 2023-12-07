@@ -1,0 +1,59 @@
+[10-Jan-2023 21:29:11 UTC] PHP Parse error:  syntax error, unexpected 'Espresso' (T_STRING), expecting ',' or ';' in /home/siif/public_html/view/inventory/inventory.extra.php on line 65
+[10-Jan-2023 21:29:45 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting ',' or ';' in /home/siif/public_html/view/inventory/inventory.extra.php on line 64
+[10-Jan-2023 21:30:13 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting ',' or ';' in /home/siif/public_html/view/inventory/inventory.extra.php on line 64
+[10-Jan-2023 21:30:39 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/siif/public_html/view/inventory/inventory.extra.php on line 64
+[10-Jan-2023 21:33:28 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/siif/public_html/view/inventory/inventory.extra.php on line 64
+[11-Jan-2023 15:18:06 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/siif/public_html/view/inventory/inventory.list.php on line 21
+[11-Jan-2023 15:18:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/siif/public_html/view/inventory/inventory.list.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/siif/public_html/view/inventory/inventory.list.php on line 21
+[11-Jan-2023 15:54:14 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/siif/public_html/view/inventory/inventory.list.php on line 3
+[11-Jan-2023 15:55:54 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/siif/public_html/view/inventory/inventory.list.php on line 4
+[11-Jan-2023 15:57:09 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/siif/public_html/view/inventory/inventory.list.php on line 8
+[11-Jan-2023 15:57:32 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/siif/public_html/view/inventory/inventory.list.php on line 5
+[11-Jan-2023 15:58:49 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/siif/public_html/view/inventory/inventory.list.php on line 5
+[16-Feb-2023 20:41:02 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting ',' or ';' in /home/siif/public_html/view/inventory/employee.list.php on line 18
+[16-Feb-2023 20:46:33 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting ',' or ';' in /home/siif/public_html/view/inventory/employee.list.php on line 18
+[16-Feb-2023 22:08:12 UTC] PHP Parse error:  syntax error, unexpected '$assignations' (T_VARIABLE) in /home/siif/public_html/view/inventory/inventory.assignation.php on line 92
+[16-Feb-2023 22:09:37 UTC] PHP Parse error:  syntax error, unexpected '$employee' (T_VARIABLE) in /home/siif/public_html/view/inventory/inventory.assignation.php on line 101
+[17-Feb-2023 20:11:14 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/siif/public_html/view/inventory/inventory.assignation.php on line 229
+[20-Feb-2023 21:15:17 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting variable (T_VARIABLE) or '{' or '$' in /home/siif/public_html/view/inventory/inventory.list.php on line 4
+[22-Feb-2023 17:22:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/siif/public_html/view/inventory/inventory.list.php on line 28
+[19-May-2023 17:44:32 UTC] PHP Notice:  Undefined variable: idDoc in /home/siif/public_html/view/inventory/inventory.documents.php on line 37
+[19-May-2023 17:44:32 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/siif/public_html/view/inventory/inventory.documents.php on line 38
+[19-May-2023 17:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/siif/public_html/view/inventory/inventory.documents.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/siif/public_html/view/inventory/inventory.documents.php on line 38
+[19-May-2023 17:45:49 UTC] PHP Notice:  Undefined variable: idDoc in /home/siif/public_html/view/inventory/inventory.documents.php on line 37
+[19-May-2023 17:45:49 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/siif/public_html/view/inventory/inventory.documents.php on line 38
+[19-May-2023 17:45:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/siif/public_html/view/inventory/inventory.documents.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/siif/public_html/view/inventory/inventory.documents.php on line 38
+[19-May-2023 17:46:35 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/siif/public_html/view/inventory/inventory.documents.php on line 36
+[19-May-2023 17:46:35 UTC] PHP Notice:  Undefined variable: idDoc in /home/siif/public_html/view/inventory/inventory.documents.php on line 77
+[19-May-2023 17:46:35 UTC] PHP Notice:  Undefined variable: id in /home/siif/public_html/view/inventory/inventory.documents.php on line 91
+[19-May-2023 17:46:35 UTC] PHP Notice:  Undefined variable: idDoc in /home/siif/public_html/view/inventory/inventory.documents.php on line 91
+[19-May-2023 17:48:18 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/siif/public_html/view/inventory/inventory.documents.php on line 36
+[19-May-2023 17:48:18 UTC] PHP Notice:  Undefined variable: idDoc in /home/siif/public_html/view/inventory/inventory.documents.php on line 77
+[19-May-2023 17:48:18 UTC] PHP Notice:  Undefined variable: id in /home/siif/public_html/view/inventory/inventory.documents.php on line 91
+[19-May-2023 17:48:18 UTC] PHP Notice:  Undefined variable: idDoc in /home/siif/public_html/view/inventory/inventory.documents.php on line 91
+[19-May-2023 17:48:59 UTC] PHP Notice:  Undefined variable: idDoc in /home/siif/public_html/view/inventory/inventory.documents.php on line 37
+[19-May-2023 17:48:59 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/siif/public_html/view/inventory/inventory.documents.php on line 38
+[19-May-2023 17:48:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/siif/public_html/view/inventory/inventory.documents.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/siif/public_html/view/inventory/inventory.documents.php on line 38
+[19-May-2023 17:50:46 UTC] PHP Notice:  Undefined variable: idDoc in /home/siif/public_html/view/inventory/inventory.documents.php on line 35
+[19-May-2023 17:50:46 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/siif/public_html/view/inventory/inventory.documents.php on line 36
+[19-May-2023 17:50:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/siif/public_html/view/inventory/inventory.documents.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/siif/public_html/view/inventory/inventory.documents.php on line 36
+[19-May-2023 17:56:30 UTC] PHP Notice:  Undefined variable: net_rrhh in /home/siif/public_html/view/inventory/inventory.documents.php on line 38
+[19-May-2023 17:56:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/siif/public_html/view/inventory/inventory.documents.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/siif/public_html/view/inventory/inventory.documents.php on line 38
